@@ -28,6 +28,7 @@ public class Main {
         }
         // something is wrong sure...
         System.out.println("aba k??");
+        System.out.println("feri???");
 
 
 
